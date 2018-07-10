@@ -14,10 +14,10 @@ Program's modes:
 - main mode (run UI)
 
 Current genres:
-- *dubstep
-- classical
-- jazz
-- heavy-metal*
+- *dubstep*
+- *classical*
+- *jazz*
+- *heavy-metal*
 
 Accuracy: **87.72%** 
 Loss: **0.65278**
